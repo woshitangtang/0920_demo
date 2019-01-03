@@ -4,5 +4,4 @@
 var a  =2;
 console.log(a);
 alert(2)
-
 console.log(2)
